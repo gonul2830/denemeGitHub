@@ -6,6 +6,7 @@ public class Deneme01 {
 
 		System.out.println("ilk mesaj");
 		System.out.println("second mesaj");
+		System.out.println("message 3");
 		
 	}
 
